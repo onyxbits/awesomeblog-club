@@ -1,0 +1,12 @@
+{
+    "author": "Daniele Polencic, Daniel Weibel, Gergely Risko, Salman Iqbal, Mauricio Salatino",
+    "description": "The Learnk8s' blog is a collection of long form articles devoted to exploring Kubernetes.",
+    "tags": [
+        "kubernetes",
+        "devops",
+        "infrastructure",
+        "cloud"
+    ],
+    "title": "Learnk8s' blog",
+    "website": "https://learnk8s.io/blog"
+}
