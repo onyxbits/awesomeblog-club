@@ -1,0 +1,15 @@
+{
+    "author": "Marcel Weiher",
+    "description": "I blog about programming, with a focus on performance, architecture, Objective-C and my own language Objective-Smalltalk.",
+    "tags": [
+        "tech",
+        "research",
+        "development",
+        "smalltalk",
+        "performance",
+        "objective-smalltalk",
+        "objective-c"
+    ],
+    "title": "metablog",
+    "website": "https://blog.metaobject.com"
+}
