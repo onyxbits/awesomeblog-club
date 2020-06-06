@@ -1,0 +1,29 @@
+{
+	"author": "Sundeep Agarwal",
+	"description": "Doing is often better than thinking of doing",
+	"tags": [
+        "book-review",
+        "cheatsheet",
+        "command-line",
+        "curated-resources",
+        "ebook",
+        "ebook-generation",
+        "gnu-awk",
+        "gnu-grep",
+        "gnu-sed",
+        "javascript",
+        "linux",
+        "markdown",
+        "maths",
+        "pandoc",
+        "python",
+        "regex",
+        "regular-expressions",
+        "ripgrep",
+        "ruby",
+        "shell-scripting",
+        "tutorial"
+	],
+	"title": "learnbyexample",
+	"website": "https://learnbyexample.github.io/"
+}
